@@ -3,7 +3,7 @@
     "users": [{
     "id": 1,
    "avatar": "https://phantastisch-lesen.com/wp-content/uploads/2018/02/Julia-Heller500.jpg",
-   "backgroundPic": "",
+   "backgroundPic": "https://cdn.pixabay.com/photo/2016/10/30/22/55/halloween-1784559_960_720.jpg",
     "joined": 1602954034,
     "surname": "Julia",
     "name": "Heller",
@@ -105,7 +105,7 @@
  "user": {
     "id": 1,
    "avatar":  "https://phantastisch-lesen.com/wp-content/uploads/2018/02/Julia-Heller500.jpg",
-   "backgroundPic": "",
+   "backgroundPic": "https://cdn.pixabay.com/photo/2016/10/30/22/55/halloween-1784559_960_720.jpg",
     "joined": 1602954034,
     "surname": "Julia",
     "name": "Heller",
